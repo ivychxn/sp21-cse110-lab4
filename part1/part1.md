@@ -41,7 +41,7 @@
 * E. false because true becomes 1 so 1 == 2 is false
 * F. true because Boolean(2) = true so even with the "===" comparing without type conversion, it doesn't make a difference since they're already the same type and value since true is equal to true
 15. While they both check for equality, "==" allows for type conversions, but "===" compares without any type conversions
-16. part1b-question16.js
+16. [part1b-question16.js](./part1b-question16.js)
 17. The result is [2, 4, 6] because we're basically returning a new array where everything is doubled. We start with the array [1, 2, 3] and iterate through that with the for loop. For each element, the function doSomething doubles the value, and then that is pushed into the array newArr. As a result, we get [2, 4, 6] from [1, 2, 3]
-18. part1b-question18.js
+18. [part1b-question18.js](./part1b-question18.js)
 19. 1 4 3 2
