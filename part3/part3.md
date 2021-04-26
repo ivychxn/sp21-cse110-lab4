@@ -1,6 +1,6 @@
 ## part 3
 1. The bug is that the program isn't adding them as numbers but as strings, so the first number is just concatenated with the second one, rather than a numerical operation.
-2. I'd fix it by parsing the input to be numbers. Screenshot is located (./fix.png)![here] and there's also the (./breakpoint.png)![breakpoint] and (./watchpoints.png)![watchpoints]
+2. I'd fix it by parsing the input to be numbers. Screenshot is located [here](./fix.png) and there's also the [breakpoint](./breakpoint.png) and [watchpoints](./watchpoints.png)
 3. citylots.json
 4. part2.js
 5. 11.7 MB
